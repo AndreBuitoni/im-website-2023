@@ -3,7 +3,7 @@ import { Input } from "./input";
 
 export function NewsletterSubscribe () {
   return (
-    <div className="w-4/12 h-fit pt-2 pb-5 pl-2 border-t border-b border-b-white border-t-white">
+    <div className="w-4/12 h-fit pt-2 pb-5 pl-2 border-t border-b border-b-white border-t-white rounded-md bg-stone-900">
       <h2 className="pb-4 text-xl font-bold text-center">Receba nossa newsletter no seu email</h2>
       <div className="flex gap-3 justify-center pl-2">
         <div className="pb-3 pr-2">

@@ -5,7 +5,7 @@ import { NewsletterSubscribe } from "./newsletter-subscribe"
 
 export function Footer () {
   return (
-    <div className="flex justify-evenly py-10 items-center sticky bottom-0 bg-black">
+    <div className="flex justify-evenly py-6 items-center sticky bottom-0 bg-neutral-950">
       <FullLogo />
       <FooterLinks />
       <NewsletterSubscribe />
