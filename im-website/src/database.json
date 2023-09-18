@@ -1,0 +1,32 @@
+{
+  "texts": [
+    {
+      "id": 1,
+      "level": "A1",
+      "title": "Greetings and Introductions",
+      "content": "Este é o texto para aprender cumprimentos e introduções em inglês."
+    },
+    {
+      "id": 2,
+      "level": "A1",
+      "title": "My Daily Routine",
+      "paragraph1": "I wake up at 7:00 AM every morning. First, I brush my teeth and wash my face. Then, I have breakfast. I usually eat cereal and drink orange juice.",
+      "paragraph2": "After breakfast, I get dressed for the day. I put on my school uniform because I go to school. My school starts at 8:30 AM, so I have to leave home early.",
+      "paragraph3": "At school, I study different subjects like math, English, and science. I have lunch with my friends in the school cafeteria. After school, I like to play soccer with my friends in the park.",
+      "paragraph4": "In the evening, I do my homework. It's important to finish my homework before dinner. After that, I have dinner with my family. We talk about our day and share stories.",
+      "paragraph5": "Before bed, I read a book for a little while. It helps me relax. Then, I go to sleep around 9:00 PM. That's my daily routine!"
+    },
+    {
+      "id": 3,
+      "level": "A1",
+      "title": "Family Matters",
+      "content": "Outro exemplo de conteúdo de artigo."
+    },
+    {
+      "id": 4,
+      "level": "A1",
+      "title": "Exploring My Hobbies",
+      "content": "Outro exemplo de conteúdo de artigo."
+    }
+  ]
+}

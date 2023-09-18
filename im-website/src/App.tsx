@@ -1,16 +1,31 @@
-//Importações Externas
-// import { createBrowserRouter as Router, Route } from 'react-router-dom'
+// Importações Externas
+import { Route, Routes } from "react-router-dom";
 
-//Importações Internas
+// Header e Footer
 import { Header } from "./components/Header";
-import { Footer } from "./components/ui/footer";
+import { Footer } from "./components/footer";
+
+// Rotas
+import { Home } from "./pages/Home";
+import { LeiturasPage } from "./pages/LeiturasPage";
+import { Aprendizagem } from "./pages/Aprendizagem";
+import { Text } from "./components/Text";
+import { NotFoundPage } from "./pages/NotFound";
 
 export function App() {
   return (
-      <div className="max-w-screen-2xl mx-auto">
-        <Header />
-      
-        <Footer />
-      </div>
+    <>
+      <Header />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/leituras">
+          <Route index element={<LeiturasPage />} />
+          <Route path=":title" element={<Text />} />
+        </Route>
+        <Route path="/aprendizagem" element={<Aprendizagem />} />
+        <Route path="*" element={<NotFoundPage />} />
+      </Routes>
+      <Footer />
+    </>
   );
 }
