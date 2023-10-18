@@ -3,7 +3,7 @@ import { Route, Routes } from "react-router-dom";
 
 // Header e Footer
 import { Header } from "./components/Header";
-import { Footer } from "./components/footer";
+import { Footer } from "./components/Footer";
 
 // Rotas
 import { Home } from "./pages/Home";
@@ -14,7 +14,7 @@ import { NotFoundPage } from "./pages/NotFound";
 
 export function App() {
   return (
-    <>
+    <div className="max-w-7xl">
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -26,6 +26,6 @@ export function App() {
         <Route path="*" element={<NotFoundPage />} />
       </Routes>
       <Footer />
-    </>
+    </div>
   );
 }
