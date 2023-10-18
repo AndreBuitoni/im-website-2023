@@ -4,17 +4,17 @@
       "id": 1,
       "level": "A1",
       "title": "Greetings and Introductions",
-      "content": "Este é o texto para aprender cumprimentos e introduções em inglês."
+      "content": "<p>Hello! My name is Andrew. <br> I'm from Brazil. I am the creator of Inglês Moleza! Nice to meet you!</p><br><p>When you meet someone new, it's essential to greet them. <br> You can say: 'Hi', 'Hello', or 'Hey there'. These are all friendly ways to start a conversation.</p><br><p>When you want to introduce yourself, you can say: 'My name is [ your-name ]'. <br> For example: 'My name is Andrew'. It's a polite way to let people know who you are.</p><br><p>It's also common to ask for someone's name. You can say: 'What's your name?' <br> When they tell you, be sure to say: 'Nice to meet you!' to make them feel welcome.</p><br><p>Greetings and introductions are the first step in making new friends. <br> So, don't be shy. Start with a friendly 'Hello!' and a warm smile.</p>",
+      "glossary":
+        "<p><strong>Hello:</strong> olá</p><p><strong> my name is:</strong> meu nome é</p><p><strong>nice to meet you:</strong> é um prazer te conhecer</p><p><strong>it's essential to greet them:</strong> é essencial cumprimentá-los</p><p><strong>start a conversation:</strong> iniciar uma conversa</p><p><strong>to introduce yourself:</strong> introduzir-se, apresentar-se</p><p><strong>a polite way:</strong> uma maneira educada</p><p><strong>it's also common:</strong> também é comum</p><p><strong>to ask for someone's name:</strong> perguntar o nome de alguém</p><p><strong>be sure to say:</strong> certifique-se de dizer</p><p><strong>greetings:</strong> saudações</p><p><strong>introductions:</strong> introduções, apresentações</p><p><strong>making new friends:</strong> fazer novos amigos</p><p><strong>don't be shy:</strong> não tenha vergonha</p>"
     },
     {
       "id": 2,
       "level": "A1",
       "title": "My Daily Routine",
-      "paragraph1": "I wake up at 7:00 AM every morning. First, I brush my teeth and wash my face. Then, I have breakfast. I usually eat cereal and drink orange juice.",
-      "paragraph2": "After breakfast, I get dressed for the day. I put on my school uniform because I go to school. My school starts at 8:30 AM, so I have to leave home early.",
-      "paragraph3": "At school, I study different subjects like math, English, and science. I have lunch with my friends in the school cafeteria. After school, I like to play soccer with my friends in the park.",
-      "paragraph4": "In the evening, I do my homework. It's important to finish my homework before dinner. After that, I have dinner with my family. We talk about our day and share stories.",
-      "paragraph5": "Before bed, I read a book for a little while. It helps me relax. Then, I go to sleep around 9:00 PM. That's my daily routine!"
+      "content": "<p>I wake up at 7:00 AM every morning. First, I brush my teeth and wash my face. Then, I have breakfast. I usually eat cereal and drink orange juice.</p><br><p>After breakfast, I get dressed for the day. I put on my school uniform because I go to school. My school starts at 8:30 AM, so I have to leave home early.</p><br><p>At school, I study different subjects like math, English, and science. I have lunch with my friends in the school cafeteria. After school, I like to play soccer with my friends in the park.</p><br><p>In the evening, I do my homework. It's important to finish my homework before dinner. After that, I have dinner with my family. We talk about our day and share stories.</p><br><p>Before bed, I read a book for a little while. It helps me relax. Then, I go to sleep around 9:00 PM. That's my daily routine!</p>",
+      "glossary":
+        "<p><strong>I wake up:</strong> eu acordo</p><p><strong> I brush my teeth:</strong> eu escovo meus dentes</p><p><strong>and wash my face:</strong> e lavo meu rosto</p>"
     },
     {
       "id": 3,
@@ -26,7 +26,79 @@
       "id": 4,
       "level": "A1",
       "title": "Exploring My Hobbies",
+      "content": "Este é o conteúdo do texto Exploring my Hobbies"
+    },
+    {
+      "id": 5,
+      "level": "A1",
+      "title": "Fifth Text",
+      "content": "Este é o conteúdo do quinto texto"
+    },
+    {
+      "id": 6,
+      "level": "A2",
+      "title": "Exploring My Hobbies",
       "content": "Outro exemplo de conteúdo de artigo."
+    },
+    {
+      "id": 7,
+      "level": "A2",
+      "title": "Traveling Abroad",
+      "content": "Este é o conteúdo do texto Exploring my Hobbies"
+    },
+    {
+      "id": 8,
+      "level": "A2",
+      "title": "Ordering Food at a Restaurant",
+      "content": "Este é o conteúdo do quinto texto"
+    },
+    {
+      "id": 9,
+      "level": "B1",
+      "title": "At the Airport",
+      "content": "Outro exemplo de conteúdo de artigo."
+    },
+    {
+      "id": 10,
+      "level": "B1",
+      "title": "Shopping for Clothes",
+      "content": "Este é o conteúdo do texto Exploring my Hobbies"
+    },
+    {
+      "id": 11,
+      "level": "B1",
+      "title": "Describing Your Home",
+      "content": "Este é o conteúdo do quinto texto"
+    },
+    {
+      "id": 12,
+      "level": "B2",
+      "title": "Health and Fitness",
+      "content": "Este é o conteúdo do quinto texto"
+    },
+    {
+      "id": 13,
+      "level": "B2",
+      "title": "Weather Talk",
+      "content": "Este é o conteúdo do quinto texto"
+    },
+    {
+      "id": 14,
+      "level": "B2",
+      "title": "Talking About Work",
+      "content": "Este é o conteúdo do quinto texto"
+    },
+    {
+      "id": 15,
+      "level": "B2",
+      "title": "Planning a Weekend Getaway",
+      "content": "Este é o conteúdo do quinto texto"
+    },
+    {
+      "id": 16,
+      "level": "B2",
+      "title": "Celebrating Holidays",
+      "content": "Este é o conteúdo do quinto texto"
     }
   ]
 }
